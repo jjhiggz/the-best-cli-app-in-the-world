@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "dumb-cli-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^12.1.0"
+  }
+}
